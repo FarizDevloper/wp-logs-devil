@@ -45,3 +45,11 @@ admin:password123 user:12345678
 - Penggunaan tanpa izin atau untuk tujuan ilegal dapat berakibat **hukuman pidana**.
 
 
+## Credits
+
+Jika Anda ingin mendukung pengembangan lebih lanjut, beri kredit kepada pengembang berikut:
+
+
+<a class="pin-payment-button" href="https://saweria.co/adminpusat2024"><img src="https://pinpayments.com/pay-button.png" alt="Pay Now" width="86" height="38"></a>
+
+
