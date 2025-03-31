@@ -1,5 +1,6 @@
-![devillll-removebg-preview](https://github.com/user-attachments/assets/20c9e119-c0b8-4a10-b82e-5f923c812b5f)
 
+
+![devillll-removebg-preview (1)](https://github.com/user-attachments/assets/744557f2-8029-46f8-acf1-e3c15a78461e)
 
 
 # WP Logs Devil - WordPress Login Checker 🔥
