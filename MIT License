@@ -1,0 +1,38 @@
+# WP Logs Devil 🔥 - Brute Force Login Checker untuk WordPress
+
+**WP Logs Devil** adalah alat canggih yang memungkinkan Anda menguji kredensial login di situs WordPress dengan cepat dan efisien menggunakan teknik **brute force**. Dengan WP Logs Devil, Anda dapat memverifikasi berbagai kombinasi username dan password secara bersamaan pada banyak situs WordPress, memastikan keamanan situs yang Anda kelola.
+
+## Fitur Unggulan 🚀
+
+- **Pemeriksaan Massal**: Uji login pada banyak URL WordPress sekaligus dengan kombinasi username/password yang berbeda.
+- **Threading Cepat**: Mempercepat proses login dengan menggunakan multithreading untuk memproses beberapa permintaan secara bersamaan.
+- **Validasi Domain**: Pastikan hanya situs dengan domain valid yang diproses, menghindari pemindaian pada URL yang salah.
+- **Statistik & Laporan Lengkap**: Dapatkan laporan statistik yang jelas tentang jumlah login berhasil, gagal, error, dan kredensial yang tidak valid.
+- **Output File**: Hasil login yang berhasil disimpan dalam file `wp-success.txt`, sementara URL yang gagal atau tidak valid tercatat di `invalid-logs.txt`.
+
+## Bagaimana Cara Kerjanya? ⚙️
+
+1. **Siapkan Dua File**:
+   - **URL Logs**: Berisi daftar URL situs WordPress yang ingin Anda periksa.
+   - **Credentials Logs**: Berisi username dan password yang ingin diuji.
+
+2. **Jalankan Alat**: Cukup jalankan skrip Python dan masukkan nama file yang sesuai ketika diminta.
+
+3. **Lihat Hasilnya**: Alat ini secara otomatis akan menguji login dan menyimpan hasil login yang berhasil, serta memberikan statistik yang jelas tentang pemindaian yang dilakukan.
+
+4. **Hasil Pemindaian**: Semua login yang berhasil akan dicatat, sementara URL yang gagal atau kredensial yang tidak valid akan diidentifikasi.
+
+## Persyaratan Sistem 🔧
+
+- **Python 3.x**
+- **Modul requests** (Instal dengan `pip install requests`)
+
+## Peringatan ⚠️
+- **Gunakan hanya untuk tujuan edukasi dan penelitian**.
+- **Jangan gunakan pada situs tanpa izin**. Penggunaan tanpa izin dapat melanggar hukum.
+
+## Lisensi 📄
+
+Proyek ini dilisensikan di bawah [MIT License](LICENSE). Anda bebas menggunakan, mengubah, dan mendistribusikan perangkat lunak ini, dengan syarat memberikan atribusi kepada pengembang asli.
+
+MIT License:
