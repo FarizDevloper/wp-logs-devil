@@ -1,3 +1,6 @@
+![devillll-removebg-preview](https://github.com/user-attachments/assets/20c9e119-c0b8-4a10-b82e-5f923c812b5f)
+
+
 # WP Logs Devil - WordPress Login Checker 🔥
 
 **WP Logs Devil** adalah alat powerful untuk menguji kredensial login di situs WordPress. Dapatkan akses lebih cepat dengan pemindaian login otomatis menggunakan teknik **brute force**! Alat ini dirancang untuk membantu Anda memverifikasi login di situs WordPress dengan efisien, mengidentifikasi kombinasi kredensial yang berhasil, dan memberikan statistik pemindaian yang berguna.
