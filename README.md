@@ -43,15 +43,4 @@ admin:password123 user:12345678
 - Pastikan Anda memiliki **izin eksplisit** sebelum menggunakan alat ini pada situs apa pun.
 - Penggunaan tanpa izin atau untuk tujuan ilegal dapat berakibat **hukuman pidana**.
 
-## Lisensi 📄
-Alat ini dirilis di bawah [MIT License](LICENSE). Bebas digunakan dan dimodifikasi dengan memberikan kredit kepada pengembang asli.
 
----
-
-**Jangan ragu untuk berbagi umpan balik atau kontribusi!** 🔥
-Penjelasan
-Tampilan Lebih Menarik: Penggunaan emoji seperti 🔥 dan 🚀 memberikan kesan dinamis dan menarik bagi pembaca.
-
-Bahasa yang Mengundang: Bahasa yang lebih informal dan bersahabat, serta penekanan pada penggunaan alat yang mudah dan bermanfaat.
-
-Format Input & Output: Menyediakan contoh yang jelas untuk format file yang diharapkan, sehingga memudahkan pengguna baru.
