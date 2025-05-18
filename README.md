@@ -1,7 +1,26 @@
 
 
 
-![510](https://github.com/user-attachments/assets/d7ae14d3-7fa5-4125-9e0f-6f5d1d384ee1)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d7ae14d3-7fa5-4125-9e0f-6f5d1d384ee1" width="640"/>
+</p>
+
+<h1 align="center">🔥 WP Logs Devil - WordPress Login Scanner</h1>
+
+<p align="center">
+  <b>Powerful WordPress login brute-force tool for educational and ethical security testing</b><br>
+  Multithreaded | WordPress Detector | Real-time Stats | Credential Validator
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue.svg?logo=python">
+  <img src="https://img.shields.io/badge/Multithreaded-Yes-success">
+  <img src="https://img.shields.io/badge/Scan-WP%20Login-orange?logo=wordpress">
+  <img src="https://img.shields.io/badge/Ethical%20Use-Only-red.svg">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg">
+</p>
+
+---
 
 # WP Logs Devil - WordPress Login Checker 🔥
 
